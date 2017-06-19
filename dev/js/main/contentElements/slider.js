@@ -20,7 +20,8 @@
                 watchSlidesVisibility: true,
                 lazyLoadingInPrevNext: true,
                 speed: 600,
-                autoplay: time
+                autoplay: time,
+                roundLengths: true
             });
             // Makes it possible to skip between slider images if they have links, using the tab button
             slider.container.on('focus', 'a', function(e) {

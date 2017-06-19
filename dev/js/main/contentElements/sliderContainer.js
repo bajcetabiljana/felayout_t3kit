@@ -55,6 +55,7 @@
                 watchSlidesVisibility: true,
                 spaceBetween: 20,
                 preloadImages: false,
+                roundLengths: true,
                 lazyLoading: true,
                 lazyLoadingInPrevNext: true,
                 slidesPerView: amountOfSlides,

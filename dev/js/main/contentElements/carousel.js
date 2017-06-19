@@ -15,6 +15,7 @@
             watchSlidesVisibility: true,
             lazyLoadingInPrevNext: true,
             spaceBetween: 20,
+            roundLengths: true,
             autoplay: 2500,
 
             // Responsive breakpoints

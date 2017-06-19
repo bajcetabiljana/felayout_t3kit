@@ -15,6 +15,7 @@
                 slidesPerView: 4,
                 preloadImages: false,
                 spaceBetween: 30,
+                roundLengths: true,
 
                 // Responsive breakpoints
                 breakpoints: {
